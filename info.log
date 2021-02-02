@@ -1,0 +1,6 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Card with id 2 not found.","level":"error"}
+{"message":"List with id 2 not found.","level":"error"}
+{"message":"Card with id 34773706-7ea0-45f4-ad8d-509827b0d626 created","level":"info"}
+{"message":"Card with id f231af83-0b8d-4d15-adee-aeb8a4966e11 created","level":"info"}
